@@ -1,4 +1,4 @@
-name: Make TWRP Device
+name: 使用Recovery构建
 
 on:
   workflow_dispatch:
